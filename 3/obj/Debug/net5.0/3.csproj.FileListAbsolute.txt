@@ -1,0 +1,16 @@
+D:\безопасность\3\3\bin\Debug\net5.0\3.exe
+D:\безопасность\3\3\bin\Debug\net5.0\3.deps.json
+D:\безопасность\3\3\bin\Debug\net5.0\3.runtimeconfig.json
+D:\безопасность\3\3\bin\Debug\net5.0\3.runtimeconfig.dev.json
+D:\безопасность\3\3\bin\Debug\net5.0\3.dll
+D:\безопасность\3\3\bin\Debug\net5.0\ref\3.dll
+D:\безопасность\3\3\bin\Debug\net5.0\3.pdb
+D:\безопасность\3\3\obj\Debug\net5.0\3.csproj.AssemblyReference.cache
+D:\безопасность\3\3\obj\Debug\net5.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\безопасность\3\3\obj\Debug\net5.0\3.AssemblyInfoInputs.cache
+D:\безопасность\3\3\obj\Debug\net5.0\3.AssemblyInfo.cs
+D:\безопасность\3\3\obj\Debug\net5.0\3.csproj.CoreCompileInputs.cache
+D:\безопасность\3\3\obj\Debug\net5.0\3.dll
+D:\безопасность\3\3\obj\Debug\net5.0\ref\3.dll
+D:\безопасность\3\3\obj\Debug\net5.0\3.pdb
+D:\безопасность\3\3\obj\Debug\net5.0\3.genruntimeconfig.cache
